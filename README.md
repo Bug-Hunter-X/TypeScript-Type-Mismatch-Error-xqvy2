@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: type mismatch. The `greeter` function expects a string, but an array is provided. The solution shows how to handle this using type guards or array iteration.
